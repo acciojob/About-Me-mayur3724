@@ -1,1 +1,13 @@
-
+.sec2{
+	justify-content:right;
+}
+.main{
+	width:50%;
+	padding:90px;
+	background-color:greenyellow;
+}
+.body{
+	background-color:grey;
+	width:100%;
+	height:600px;
+}
